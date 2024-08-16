@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @t33j4y
+- 👋 Hi, I’m Tee
 - 👀 I’m interested fantasy, science fiction, and video games.
 - 🌱 I’m currently learning data analytics/SQL. 
 
